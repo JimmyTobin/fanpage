@@ -9,7 +9,7 @@ function hidePhotos() {
 	{
 
 		var photoID = "image" +  p;
-		alert(photoID);
+		//alert(photoID);
 		document.getElementById(photoID).style.display = "none";
 	}
 
