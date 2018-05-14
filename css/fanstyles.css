@@ -1,0 +1,163 @@
+/* CSS */
+
+/* font-family: 'Bangers', cursive; */
+
+body{
+	 background-image: url("../images/background.jpg")
+
+}
+
+
+h1{
+
+	font-family: 'Bangers', cursive;
+	color: #1d40f2 ;
+	font-weight: bolder;
+	width: 80%;
+	font-size: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	text-underline-position: all;
+
+
+}
+
+
+
+h2 {
+	font-family: 'Bangers', cursive;
+	color: #1d40f2 ;
+	font-weight: bolder;
+	width: 80%;
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+
+
+
+}
+
+
+#imageBox{
+	/*border: 2px solid blue;*/
+
+}
+
+.navbutton {
+	float: right;
+	width: 8%;
+	/*border: 2px solid blue;*/
+
+}
+
+#image0{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	float: center;
+	height: 60%;
+	width:60%;
+
+}
+
+#image1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+
+#image2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+
+#image3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+#image4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+#image5 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+#image6 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	float: center;
+	height: 60%;
+	width:60%;
+}
+
+#rightButton{
+	display: block;
+	margin-left: auto;
+	margin-right: 30px;
+	padding-top: top ;
+	float: bottom;
+	padding-right: right;
+	height: 50px;
+	width: 50px;
+	
+	/*border: 2px solid blue:;*/
+}
+
+
+
+#leftButton{
+	display: block;
+	margin-left: 30px;
+	margin-right: auto;
+	padding-top: top ;
+	padding-left: left;
+	height: 50px;
+	width: 50px;
+	/*border: 2px solid blue;*/
+
+}
+
+#picWindow {
+	float: right;
+	width: 80%;
+	/*border: 2px solid blue;*/
+
+}
+
+
+
+
+
+
+
+
